@@ -1,4 +1,4 @@
-# MyTest.github.io
+# MyTest
 # clone the prj
 git clone https://github.com/username/username.github.io
 
